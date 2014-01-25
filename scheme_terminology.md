@@ -7,6 +7,7 @@
  * **lat**: list of atoms
  * **member**: element of a list
  * **rember**: remove member
- * **s-expression**: nested tree-structure ("symbolic expression")
+ * **s-expression**: nested tree-structure ("symbolic expression", parenthesized lists)
+ * **define**: name a function
 
 [end]
