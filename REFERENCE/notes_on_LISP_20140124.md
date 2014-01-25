@@ -10,6 +10,5 @@
  * **Trivia**:
    * `if-then-else`: invented for use in LISP
    * automatic garbage collection: invented for use in LISP
- * 
 
 [end]

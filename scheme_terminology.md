@@ -14,10 +14,13 @@
  * **define**: name a function
  * **nil**: the empty list (also `()`); uniquely, both an atom and a list
  * **pair**: each cell of a list, consisting of the pointers `car` and `cdr`
+ * **`'`**: ...
+ * **`` ` ``**: ...
  * **symbolic atom**: ...
  * **lambda**: ...
  * **append**: ...
- * ****: 
+ * **quasiquote**: backtick (`` ` ``)
+ * **eval**: ...
 
 ### Terminology used in passing
 
@@ -25,5 +28,6 @@
 * **variadic**: "able to take any number of arguments", also "n-ary" ([Wikipedia article](https://en.wikipedia.org/w/index.php?title=Lisp_%28programming_language%29&printable=yes), accessed 20140124)
 * **destructive** (of a function): altering its own arguments; marked with `!` in Scheme ([Wikipedia article](https://en.wikipedia.org/w/index.php?title=Lisp_%28programming_language%29&printable=yes), accessed 20140124)
 * **bang**: exclamation point ([Wikipedia article](https://en.wikipedia.org/w/index.php?title=Lisp_%28programming_language%29&printable=yes), accessed 20140124)
+ * **applicative order**: leftmost innermost order ([Wikipedia article](https://en.wikipedia.org/w/index.php?title=Lisp_%28programming_language%29&printable=yes), accessed 20140124)
 
 [end]
